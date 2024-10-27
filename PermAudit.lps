@@ -3,7 +3,7 @@
   <ProjectSession>
     <Version Value="12"/>
     <ManyBuildModesSelection Value="Release-gtk2"/>
-    <BuildModes Active="Release-qt5">
+    <BuildModes Active="Release-gtk2">
       <SessionMatrixOptions Count="1">
         <Item1 ID="181340704663" Modes="Release-qt5" Type="IDEMacro" MacroName="LCLWidgetType" Value="qt5"/>
       </SessionMatrixOptions>
