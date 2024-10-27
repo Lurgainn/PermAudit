@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <ManyBuildModesSelection Value="Release-gtk2"/>
+    <BuildModes Active="Release-qt5">
+      <SessionMatrixOptions Count="1">
+        <Item1 ID="181340704663" Modes="Release-qt5" Type="IDEMacro" MacroName="LCLWidgetType" Value="qt5"/>
+      </SessionMatrixOptions>
+    </BuildModes>
+    <Units>
+      <Unit>
+        <Filename Value="PermAudit.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <CursorPos Y="55"/>
+        <UsageCount Value="225"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitformmain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="formMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="UnitFormMain"/>
+        <UsageCount Value="225"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_form_about.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="formAbout"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="299"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_form_license.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="formLicense"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="3"/>
+        <UsageCount Value="299"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_form_help.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="formHelp"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="217"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="12">
+      <Position>
+        <Filename Value="unitformmain.pas"/>
+        <Caret Line="3"/>
+      </Position>
+      <Position>
+        <Filename Value="unitformmain.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="unitformmain.pas"/>
+        <Caret Line="3" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="unitformmain.pas"/>
+        <Caret Column="2"/>
+      </Position>
+      <Position>
+        <Filename Value="unitformmain.pas"/>
+        <Caret Line="168" Column="39" TopLine="145"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_form_help.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_form_help.pas"/>
+        <Caret Line="19" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_form_about.pas"/>
+        <Caret Line="31" Column="15" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_form_about.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_form_about.pas"/>
+        <Caret Line="19" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_form_license.pas"/>
+        <Caret Line="21" Column="81"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_form_license.pas"/>
+        <Caret Line="19" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="unitformmain.pas"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="string_out"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
