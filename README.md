@@ -1,1 +1,2 @@
 PermAudit program is a simple GUI frontend for the “find” command (or the more advanced “bfs” if you have it installed) for searching files/directories by permissions.
+You need to install lazarus-ide and freepascal (and some components) to compile the program.
